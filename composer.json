@@ -1,5 +1,5 @@
 {
-    "name": "asahasrabuddhe/laravel-mjml",
+    "name": "shayneoneill/laravel-mjml",
     "description": "A package that enables using MJML with Laravel Mailables.",
     "authors": [
         {

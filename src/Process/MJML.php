@@ -2,7 +2,8 @@
 
 namespace Asahasrabuddhe\LaravelMJML\Process;
 
-use Html2Text\Html2Text;
+// Reference: https://github.com/asahasrabuddhe/laravel-mjml/pull/133
+use Soundasleep\Html2Text;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\HtmlString;
 use Illuminate\View\View;
